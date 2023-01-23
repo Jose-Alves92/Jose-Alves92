@@ -1,25 +1,32 @@
 ### Olá, eu sou José Alves 👋
 
-<!--
-**Jose-Alves92/Jose-Alves92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-##
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose-Alves92/)](https://www.linkedin.com/in/Jose-Alves92/)
-[![Gmail Badge](https://img.shields.io/badge/-pasquantonioo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseallvess@gmail.com)](mailto:joseallvess@gmail.com)
-<br />
-<br />
-### Languages and Tools:
+[![Linkedin Badge](https://img.shields.io/badge/josealves92-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose-Alves92/)](https://www.linkedin.com/in/Jose-Alves92/)
+[![Gmail Badge](https://img.shields.io/badge/joseallvess@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseallvess@gmail.com)](mailto:joseallvess@gmail.com)
+
+##
+### 🚀 Skills:
+
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Firebase" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img align="left" alt="Firebase" width="26px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /></a> 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+</br>
 
+##
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Jose-Alves92&theme=blue-green&count_private=true&show_icons=true&include_all_commits=true)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Alves92&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Jose-Alves92)
