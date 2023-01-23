@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/joseallvess@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseallvess@gmail.com)](mailto:joseallvess@gmail.com)
 
 ##
-### 🚀 Skills:
+### 🚀 Tecnologias:
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
