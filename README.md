@@ -1,7 +1,7 @@
 ### Olá, eu sou José Alves 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/josealves92-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose-Alves92/)](https://www.linkedin.com/in/Jose-Alves92/)
+[![Linkedin Badge](https://img.shields.io/badge/josealves92-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Jose-Alves92/)](https://www.linkedin.com/in/josealves92/)
 [![Gmail Badge](https://img.shields.io/badge/joseallvess@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseallvess@gmail.com)](mailto:joseallvess@gmail.com)
 
 ##
